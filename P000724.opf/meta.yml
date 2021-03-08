@@ -4,4 +4,59 @@ source_metadata:
   id: bdr:W3CN7829
   title: གསུང་འབུམ། པཎ་ཆེན་བསོད་ནམས་གྲགས་པ།
   author: ''
-  volumes: {}
+  volumes:
+    c28b8cf02e7047088aeeff82e87eb440:
+      image_group_id: I3CN7831
+      title: ''
+      volume_number: 1
+      total_pages: 566
+    7eee5a4839774d3d9187f9395eae7ded:
+      image_group_id: I3CN7832
+      title: ''
+      volume_number: 2
+      total_pages: 238
+    30c81d669ea94b9e927512c347ddab8c:
+      image_group_id: I3CN7833
+      title: ''
+      volume_number: 3
+      total_pages: 358
+    da17f354660a4eed9bef77a0eb0ca8f8:
+      image_group_id: I3CN7834
+      title: ''
+      volume_number: 4
+      total_pages: 438
+    a416be7c25b64f81acf83ea8e185a17d:
+      image_group_id: I3CN7835
+      title: ''
+      volume_number: 5
+      total_pages: 416
+    951e0c8f57904c3dbed282eb191d705d:
+      image_group_id: I3CN7836
+      title: ''
+      volume_number: 6
+      total_pages: 404
+    fbd65b112155443786cd38fd180099c8:
+      image_group_id: I3CN7837
+      title: ''
+      volume_number: 7
+      total_pages: 368
+    aa1c07ac63f84574b2e58d1796967c02:
+      image_group_id: I3CN7838
+      title: ''
+      volume_number: 8
+      total_pages: 0
+    17594b4d9af647d88b3984b089b0575c:
+      image_group_id: I3CN7839
+      title: ''
+      volume_number: 9
+      total_pages: 382
+    1f7f3c551eaf481892ee4aebca28623f:
+      image_group_id: I3CN7840
+      title: ''
+      volume_number: 10
+      total_pages: 390
+    9d5e4c49eb8344f29b655f24cf77a211:
+      image_group_id: I3CN7841
+      title: ''
+      volume_number: 11
+      total_pages: 372
